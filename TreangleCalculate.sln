@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TriangleCalculate", "TreangleCalculate\TriangleCalculate.csproj", "{396090B3-261E-4C95-A8FA-BAEF2875639A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TriangleLogic", "TreangleLogic\TriangleLogic.csproj", "{1579A214-98C2-412B-BB45-CAB08EC9A98C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{396090B3-261E-4C95-A8FA-BAEF2875639A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{396090B3-261E-4C95-A8FA-BAEF2875639A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{396090B3-261E-4C95-A8FA-BAEF2875639A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{396090B3-261E-4C95-A8FA-BAEF2875639A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1579A214-98C2-412B-BB45-CAB08EC9A98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1579A214-98C2-412B-BB45-CAB08EC9A98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1579A214-98C2-412B-BB45-CAB08EC9A98C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1579A214-98C2-412B-BB45-CAB08EC9A98C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD43D105-A779-42A3-B0A5-F324259F8496}
+	EndGlobalSection
+EndGlobal

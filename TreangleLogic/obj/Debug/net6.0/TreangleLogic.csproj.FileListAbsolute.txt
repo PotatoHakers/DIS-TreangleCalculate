@@ -1,0 +1,12 @@
+C:\Users\mix123\source\repos\TreangleCalculate\TreangleLogic\bin\Debug\net6.0\TreangleLogic.deps.json
+C:\Users\mix123\source\repos\TreangleCalculate\TreangleLogic\bin\Debug\net6.0\TreangleLogic.dll
+C:\Users\mix123\source\repos\TreangleCalculate\TreangleLogic\bin\Debug\net6.0\TreangleLogic.pdb
+C:\Users\mix123\source\repos\TreangleCalculate\TreangleLogic\obj\Debug\net6.0\TreangleLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mix123\source\repos\TreangleCalculate\TreangleLogic\obj\Debug\net6.0\TreangleLogic.AssemblyInfoInputs.cache
+C:\Users\mix123\source\repos\TreangleCalculate\TreangleLogic\obj\Debug\net6.0\TreangleLogic.AssemblyInfo.cs
+C:\Users\mix123\source\repos\TreangleCalculate\TreangleLogic\obj\Debug\net6.0\TreangleLogic.csproj.CoreCompileInputs.cache
+C:\Users\mix123\source\repos\TreangleCalculate\TreangleLogic\obj\Debug\net6.0\TreangleLogic.dll
+C:\Users\mix123\source\repos\TreangleCalculate\TreangleLogic\obj\Debug\net6.0\refint\TreangleLogic.dll
+C:\Users\mix123\source\repos\TreangleCalculate\TreangleLogic\obj\Debug\net6.0\TreangleLogic.pdb
+C:\Users\mix123\source\repos\TreangleCalculate\TreangleLogic\obj\Debug\net6.0\ref\TreangleLogic.dll
+C:\Users\mix123\source\repos\TreangleCalculate\TreangleLogic\obj\Debug\net6.0\TreangleLogic.csproj.AssemblyReference.cache

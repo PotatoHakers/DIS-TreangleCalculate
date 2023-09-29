@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yQp2p7GB9y1MxlmFdxq1cmpuUN0ZxdHxh54ribEcZO4FSAJery7gagGWtZGHeLBpPCBTi+lCfBJwM04MAIyCpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mix123\\source\\repos\\TreangleCalculate\\TreangleCalculate\\TriangleCalculate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mix123\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
